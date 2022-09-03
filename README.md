@@ -1,1 +1,1 @@
-# VIP-GUI.Lua
+# Rogue Master GUI
